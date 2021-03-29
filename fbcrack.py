@@ -9,7 +9,7 @@ import logging
 os.system("clear")
 os.system("toilet -f mono12 -F crop FB Crack")
 print 
-print 'Author : Rahat Khan Tusar(RKT)'
+print 'Author : Prince Bin Mohammad Sultan(PBMS)'
 print
 print 'Github : https://github.com/r3k4t'
 print
